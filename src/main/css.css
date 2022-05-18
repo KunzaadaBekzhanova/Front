@@ -1,0 +1,70 @@
+div{
+    color: #4f0443;
+    text-align: center;
+}
+span{
+    background-color: #ea7ce4;
+}
+
+.text{
+    text-transform: uppercase;
+}
+.container{
+    width: 100vw;
+    height: 100vw;
+    background-color: #f695e5;
+    overflow: hidden;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+form{
+    background-color: white;
+    width: 600px;
+    padding: 100px;
+    columns:600px;
+    border-radius: 30px;
+
+
+}
+label{
+    color: red;
+    text-transform: uppercase;
+    display: block;
+}
+.formContent{
+    width: 600px;
+
+    margin: 50px 0px 10px 150px;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    font-family: "Cambria Math";
+    outline: none;
+    margin: 10px 10px 30px 10px;
+    width: 560px;
+    border-radius: 30px;
+}
+input:focus{
+    border: 1px solid #ffffff;
+}
+input:hover{
+    background-color: #ea7ce4;
+}
+.sumbit{
+    background-color: cornflowerblue;
+
+}
+#myButton{
+    background-color: #ea7ce4;
+    padding: 10px 100px 10px 100px;
+    color: white;
+    margin-left: 20px;
+    border-color: #4f0443;
+    border-radius: 30px;
+    text-align: center;
+}
