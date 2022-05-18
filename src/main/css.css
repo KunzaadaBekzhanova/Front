@@ -30,14 +30,17 @@ form{
 
 }
 label{
-    color: red;
-    text-transform: uppercase;
+    color: #dd00ff;
     display: block;
+
 }
 .formContent{
     width: 600px;
 
     margin: 50px 0px 10px 150px;
+}
+.forgotPassword{
+    padding: 10px;
 }
 
 input{
